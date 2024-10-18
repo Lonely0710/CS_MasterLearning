@@ -1,6 +1,3 @@
-//
-// Created by 杨龙澧 on 24-10-19.
-//
 #include "Scan_function.h"
 
 TokenCode code = TK_UNDEF;

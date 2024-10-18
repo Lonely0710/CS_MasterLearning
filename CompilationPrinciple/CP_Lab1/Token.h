@@ -1,7 +1,3 @@
-//
-// Created by 杨龙澧 on 24-10-19.
-//
-
 #ifndef TOKEN_H
 #define TOKEN_H
 
